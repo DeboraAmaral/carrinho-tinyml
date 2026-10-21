@@ -5,7 +5,7 @@ Repositório oficial contendo o desenvolvimento do carrinho-robô **WALL-E**, de
 ---
 
 ## 👥 Integrantes do Grupo
-* **Débora da Silva Amaral** — RM: 550412
+* **Debora da Silva Amaral** — RM: 550412
 * **Eduardo Pielich** — RM: 99767
 * **Lívia Namba Seraphim** — RM: 97819
 
@@ -19,7 +19,6 @@ carrinho-walle-tinyml/
 ├── README.md                           <-- Documentação unificada do projeto
 │
 ├── cp01/
-│   ├── cad/                            <-- Modelagem 3D / Estrutura mecânica
 │   ├── codigo_cp01/                    <-- Código do controle manual e motores
 │   └── evidencias_cp01/                <-- Esquema elétrico e fotos da montagem
 │
