@@ -87,3 +87,7 @@ $$\text{Sensor HC-SR04} \longrightarrow \text{Coleta CSV} \longrightarrow \text{
 2. **Conexão:** Ligue o carrinho **WALL-E**, conecte seu celular/computador à rede Wi-Fi `WALL-E` (senha `wallE123`).
 3. **Acesso:** Abra o navegador e acesse `http://192.168.4.1`.
 4. **Executando a IA:** Clique no botão **"Classificar (IA)"** na tela do aplicativo web para executar a inferência de TinyML e visualizar o resultado retornado pelo modelo na tela e no Serial Monitor (`115200 baud`).
+
+---
+
+## Vídeo demonstrativo: https://drive.google.com/file/d/1FQ6hBIPk40qVTFjekc45RkNjoPp7fpup/view?usp=sharing
